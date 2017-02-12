@@ -19,7 +19,7 @@ int main()
     map<int, vector<int> > stuCourse;
     int courseId;
     int couStuNum;
-    char stuName[4];
+    char stuName[5];
     for (int i = 0; i < courseNum; ++i)
     {
         scanf("%d%d", &courseId, &couStuNum);
